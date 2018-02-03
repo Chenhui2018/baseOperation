@@ -1,7 +1,7 @@
 /** Introduction.
 This class contains some useful funtion.
 
-Final editd time	:	2018.01.19
+Final editd time	:	2018.02.03
 Verson				:	1.0
 Author				:	Alex
 license				:
